@@ -4,7 +4,7 @@ Problem statement:- You may have seen this types of projects but they all can on
 
 This repository contains python files and link to dataset. Dataset contains images of people with different types of masks and images of people without mask.
 
-First download the dataset here:- https://www.kaggle.com/shrirajchauhan/face-mask-medical-and-nonmedical
+First download the dataset here:- https://www.kaggle.com/shrirajchauhan/face-mask-detection-medical-and-nonmedical-masks
 
 Then run the "mask_nomask_training.ipynb" to create, train, and save the model as a ".h5" file.
 
